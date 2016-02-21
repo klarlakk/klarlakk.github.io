@@ -1064,7 +1064,7 @@ padding: 8px 15px;
 }
 
 .overlay-hover:hover .overlay-effect{
-    opacity:1;
+    opacity:0.8;
    -webkit-transition: top 0.35s ease 0s;
     -o-transition: top 0.35s ease 0s;
     transition: top 0.35s ease 0s;
