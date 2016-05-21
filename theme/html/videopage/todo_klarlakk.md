@@ -1,6 +1,8 @@
 + fjerne ikoner (smart repair, 	oppretting ...)
+
 - link for bilsalg (registrert)
-- bulkoppretting: sette før og etter bilder
+|| bulkoppretting: sette før og etter bilder
+
 - prisliste beskrivelse (gamle nettsider)
 - bilpleie: reduser tekste (med les mer knapp), legg til neders to linker:  prisliste, bestill denne behanlindg (autoutfyll pris og behandling).
 - bilvask: ta bort ikonene, bilde følger tekst
