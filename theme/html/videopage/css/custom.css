@@ -1200,7 +1200,7 @@ padding: 8px 15px;
     left: 0px;
     top: 0px;
 }
-#pricing_table {
+#pricing_table, .bg_car {
     background: url("../images/bg/bg.jpg")fixed center center;
     background-size: cover;
 }
@@ -2614,4 +2614,13 @@ iframe{
     background: #EE3B24;
     right: 10px;
     top: -10px;
+}
+
+.table td.right{
+    text-align: right;
+    font-weight: bold;
+}
+
+.table td, th {
+    text-align: center;
 }

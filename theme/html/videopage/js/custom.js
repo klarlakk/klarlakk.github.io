@@ -305,6 +305,19 @@ jQuery(function($) {
 
     $('#back-top').tooltip('hide');
 
+    $('[data-toggle="popover"]').popover();
+    $("tr[id=popover]").popover({placement:"top",trigger:"hover"});
+
+    $(".table tr a").popover({
+        trigger: 'hover',
+        placement: function(pop,ele){
+            if($(ele).parent().is('td:last-child')){
+                return 'left'
+            }else{
+                return 'top'
+            }
+        }
+    });
 
 
 
