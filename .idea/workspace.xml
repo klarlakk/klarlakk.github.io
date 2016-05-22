@@ -1,18 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/theme/html/videopage/index.html" line="1284" mnemonic="2" />
-    <bookmark url="file://$PROJECT_DIR$/theme/html/videopage/index.html" line="879" mnemonic="1" />
+    <bookmark url="file://$PROJECT_DIR$/theme/html/videopage/index.html" line="1273" mnemonic="2" />
+    <bookmark url="file://$PROJECT_DIR$/theme/html/videopage/index.html" line="868" mnemonic="1" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f8cb705-e4d5-4434-af9f-884a553721cd" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/theme/html/homepage/css/custom.css" afterPath="$PROJECT_DIR$/theme/html/homepage/css/custom.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/theme/html/homepage/css/red.css" afterPath="$PROJECT_DIR$/theme/html/homepage/css/red.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/theme/html/homepage/css/style.css" afterPath="$PROJECT_DIR$/theme/html/homepage/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/theme/html/videopage/css/custom.css" afterPath="$PROJECT_DIR$/theme/html/videopage/css/custom.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/theme/html/videopage/css/red.css" afterPath="$PROJECT_DIR$/theme/html/videopage/css/red.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/theme/html/videopage/css/style.css" afterPath="$PROJECT_DIR$/theme/html/videopage/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/theme/html/videopage/index.html" afterPath="$PROJECT_DIR$/theme/html/videopage/index.html" />
     </list>
     <ignored path="klarlakk.iws" />
@@ -38,8 +32,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/theme/html/videopage/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="354">
-              <caret line="457" column="45" selection-start-line="457" selection-start-column="45" selection-end-line="457" selection-end-column="45" />
+            <state relative-caret-position="316">
+              <caret line="508" column="77" selection-start-line="508" selection-start-column="26" selection-end-line="508" selection-end-column="26" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -48,8 +42,8 @@
                 <element signature="n#style#0;n#h3#2;n#div#1;n#div#0;n#div#0;n#div#0;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h4#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <marker date="1463959075000" expanded="true" signature="1679:1832" ph="..." />
-                <marker date="1463959075000" expanded="true" signature="1772:1800" ph="..." />
+                <marker date="1463959188000" expanded="true" signature="1679:1832" ph="..." />
+                <marker date="1463959188000" expanded="true" signature="1772:1800" ph="..." />
               </folding>
             </state>
           </provider>
@@ -605,7 +599,7 @@
       <workItem from="1456507527127" duration="220000" />
       <workItem from="1463777550345" duration="17528000" />
       <workItem from="1463944187555" duration="1432000" />
-      <workItem from="1463946176524" duration="6166000" />
+      <workItem from="1463946176524" duration="6287000" />
     </task>
     <task id="LOCAL-00001" summary="Working version&#10;">
       <created>1456082024321</created>
@@ -691,11 +685,18 @@
       <option name="project" value="LOCAL" />
       <updated>1463867837470</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Fikset prisliste + bilvask.">
+      <created>1463959095473</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1463959095473</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53607000" />
+    <option name="totallyTimeSpent" value="53728000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="145" y="23" width="1903" height="1215" extended-state="0" />
@@ -764,7 +765,8 @@
     <MESSAGE value="Adjustments to ids" />
     <MESSAGE value="1st version." />
     <MESSAGE value="Lagt til eksempel på bilder." />
-    <option name="LAST_COMMIT_MESSAGE" value="Lagt til eksempel på bilder." />
+    <MESSAGE value="Fikset prisliste + bilvask." />
+    <option name="LAST_COMMIT_MESSAGE" value="Fikset prisliste + bilvask." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -808,8 +810,8 @@
             <element signature="n#style#0;n#h3#2;n#div#1;n#div#0;n#div#0;n#div#0;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h4#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1463959075000" expanded="true" signature="1679:1832" ph="..." />
-            <marker date="1463959075000" expanded="true" signature="1772:1800" ph="..." />
+            <marker date="1463959188000" expanded="true" signature="1679:1832" ph="..." />
+            <marker date="1463959188000" expanded="true" signature="1772:1800" ph="..." />
           </folding>
         </state>
       </provider>
@@ -853,8 +855,8 @@
             <element signature="n#style#0;n#h3#2;n#div#1;n#div#0;n#div#0;n#div#0;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h4#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1463959075000" expanded="true" signature="1679:1832" ph="..." />
-            <marker date="1463959075000" expanded="true" signature="1772:1800" ph="..." />
+            <marker date="1463959188000" expanded="true" signature="1679:1832" ph="..." />
+            <marker date="1463959188000" expanded="true" signature="1772:1800" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1087,8 +1089,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/theme/html/videopage/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="457" column="45" selection-start-line="457" selection-start-column="45" selection-end-line="457" selection-end-column="45" />
+        <state relative-caret-position="316">
+          <caret line="508" column="77" selection-start-line="508" selection-start-column="26" selection-end-line="508" selection-end-column="26" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1097,8 +1099,8 @@
             <element signature="n#style#0;n#h3#2;n#div#1;n#div#0;n#div#0;n#div#0;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h4#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1463959075000" expanded="true" signature="1679:1832" ph="..." />
-            <marker date="1463959075000" expanded="true" signature="1772:1800" ph="..." />
+            <marker date="1463959188000" expanded="true" signature="1679:1832" ph="..." />
+            <marker date="1463959188000" expanded="true" signature="1772:1800" ph="..." />
           </folding>
         </state>
       </provider>
