@@ -205,7 +205,7 @@ a {
     height: 5px;
 }
 
-#service,#pricing_table,#about,#team,#blog,#contact {
+#service,#pricing_table,#prisliste,#about,#team,#blog,#contact {
     padding: 80px 0px;
 }
 
@@ -1220,7 +1220,7 @@ figcaption .links a {
     top: 0px;
 }
 
-#pricing_table {
+#pricing_table, #prisliste {
     background: url("../images/bg/1.jpg")fixed center center;
     background-size: cover;
 }

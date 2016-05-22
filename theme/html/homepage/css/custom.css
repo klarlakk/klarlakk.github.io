@@ -191,7 +191,7 @@ a{
     height: 5px;
     }
 
-#service,#pricing_table,#about,#team,#blog,#contact,#testimonial,#portfolio,#video-fact,#about-details {
+#service,#pricing_table,#prisliste#about,#team,#blog,#contact,#testimonial,#portfolio,#video-fact,#about-details {
      padding-bottom: 130px;
      padding-top:90px;
 }
@@ -1216,7 +1216,7 @@ padding: 8px 15px;
     left: 0px;
     top: 0px;
 }
-#pricing_table {
+#pricing_table, #prisliste {
     background: url("../images/bg/1.jpg")fixed center center;
     background-size: cover;
 }

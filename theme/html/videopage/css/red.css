@@ -144,6 +144,10 @@ background: #000;
     color: #fff!important;
 }
 
+#prisliste .feature_title,#prisliste .feature_sub{
+    color: #fff!important;
+}
+
 /*portfolio
 =================*/
 .single-portfolio figcaption,.single-portfolio figcaption .description{
