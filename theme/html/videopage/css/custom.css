@@ -1116,6 +1116,38 @@ padding: 8px 15px;
     color: #4E4E4E;
 }
 
+#owl-bilder .owl-item{
+    margin: 0 auto;
+}
+
+#owl-bilder .item img{
+    margin-bottom: 25px;
+}
+
+#owl-bilder .item{
+    overflow: hidden;
+}
+
+#owl-bilder .owl-item{
+    margin: 0 auto;
+}
+
+#owl-bilder .owl-item{
+    margin: 0 auto;
+}
+
+.single-bilde {
+    height: auto;
+    font-weight: 700;
+    margin-bottom: 30px;
+    width: 500px;
+    border-radius: 7px;
+    padding-bottom: 25px;
+    margin: 0 10px;
+}
+
+
+
 /* Carousel  TEAM Css
 =========================== */
 .team-items{
@@ -2650,4 +2682,9 @@ iframe{
     height: 100%;
     background: #ccc;
     display: block;
+}
+
+.blank_row {
+    height: 10px !important; /* Overwrite any previous rules */
+    background-color: #f2f2f2 !important;
 }

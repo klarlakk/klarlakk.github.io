@@ -194,6 +194,28 @@ jQuery(function($) {
         goToFirstSpeed:1000
     });
 
+    $("#owl-bilder").owlCarousel({
+
+        navigation : true, // Show next and prev buttons
+        // navigationText: ["prev","next"],
+        navigationText: [
+            "<i class='fa fa-angle-left'></i>",
+            "<i class='fa fa-angle-right'></i>"
+        ],
+        slideSpeed : 200,
+        paginationSpeed : 400,
+        autoPlay: true,
+        items : 2,
+        scrollPerPage:true,
+        itemsDesktop:[1199,4],
+        itemsDesktopSmall:[979,3],  //As above.
+        itemsTablet:[768,3],    //As above.
+        // itemsTablet:[640,2],
+        itemsMobile:[479,1],    //As above
+        goToFirst: true,    //Slide to first item if autoPlay reach end
+        goToFirstSpeed:1000
+    });
+
 
 
 
