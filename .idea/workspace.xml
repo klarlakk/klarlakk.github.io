@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/index.html" line="1750" mnemonic="4" />
+    <bookmark url="file://$PROJECT_DIR$/index.html" line="1751" mnemonic="4" />
     <bookmark url="file://$PROJECT_DIR$/index.html" line="1197" mnemonic="1" />
     <bookmark url="file://$PROJECT_DIR$/index.html" line="172" mnemonic="2" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f8cb705-e4d5-4434-af9f-884a553721cd" name="Default" comment="Small changes.ı">
+    <list default="true" id="4f8cb705-e4d5-4434-af9f-884a553721cd" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/todo_klarlakk.md" afterPath="$PROJECT_DIR$/todo_klarlakk.md" />
@@ -31,11 +31,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="1808" column="8" selection-start-line="1808" selection-start-column="5" selection-end-line="1808" selection-end-column="8" />
+            <state relative-caret-position="393">
+              <caret line="1790" column="40" selection-start-line="1790" selection-start-column="0" selection-end-line="1791" selection-end-column="0" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -50,21 +50,21 @@
                 <element signature="n#style#0;n#td#0;n#tr#27;n#tbody#0;n#table#0;n#div#3;n#div#0;n#div#0;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#td#1;n#tr#27;n#tbody#0;n#table#0;n#div#3;n#div#0;n#div#0;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#td#2;n#tr#27;n#tbody#0;n#table#0;n#div#3;n#div#0;n#div#0;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <marker date="1465763894000" expanded="true" signature="1679:1832" ph="..." />
-                <marker date="1465763894000" expanded="true" signature="1772:1800" ph="..." />
+                <marker date="1465766362000" expanded="true" signature="1679:1832" ph="..." />
+                <marker date="1465766362000" expanded="true" signature="1772:1800" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="todo_klarlakk.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="todo_klarlakk.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/todo_klarlakk.md">
           <provider editor-type-id="MarkdownPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="28" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="28" />
+            <state relative-caret-position="114">
+              <caret line="6" column="56" selection-start-line="6" selection-start-column="16" selection-end-line="7" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -100,8 +100,8 @@
         <option value="$PROJECT_DIR$/theme/html/videopage/css/custom.css" />
         <option value="$PROJECT_DIR$/theme/html/videopage/index.html" />
         <option value="$PROJECT_DIR$/theme/html/videopage/js/custom.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/todo_klarlakk.md" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -623,7 +623,7 @@
       <workItem from="1463944187555" duration="1432000" />
       <workItem from="1463946176524" duration="10839000" />
       <workItem from="1465418004897" duration="1514000" />
-      <workItem from="1465669752902" duration="15651000" />
+      <workItem from="1465669752902" duration="17834000" />
     </task>
     <task id="LOCAL-00001" summary="Working version&#10;">
       <created>1456082024321</created>
@@ -751,11 +751,18 @@
       <option name="project" value="LOCAL" />
       <updated>1465763739949</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Removed foo bar.">
+      <created>1465763918941</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1465763918941</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75445000" />
+    <option name="totallyTimeSpent" value="77628000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="145" y="23" width="1903" height="1215" extended-state="0" />
@@ -829,7 +836,8 @@
     <MESSAGE value="Working." />
     <MESSAGE value="Reorganized folders." />
     <MESSAGE value="Small changes.ı" />
-    <option name="LAST_COMMIT_MESSAGE" value="Small changes.ı" />
+    <MESSAGE value="Removed foo bar." />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed foo bar." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -858,8 +866,8 @@
             <element signature="n#style#0;n#td#0;n#tr#27;n#tbody#0;n#table#0;n#div#3;n#div#0;n#div#0;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#td#1;n#tr#27;n#tbody#0;n#table#0;n#div#3;n#div#0;n#div#0;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#td#2;n#tr#27;n#tbody#0;n#table#0;n#div#3;n#div#0;n#div#0;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1465763894000" expanded="true" signature="1679:1832" ph="..." />
-            <marker date="1465763894000" expanded="true" signature="1772:1800" ph="..." />
+            <marker date="1465766362000" expanded="true" signature="1679:1832" ph="..." />
+            <marker date="1465766362000" expanded="true" signature="1772:1800" ph="..." />
           </folding>
         </state>
       </provider>
@@ -909,8 +917,8 @@
             <element signature="n#style#0;n#td#0;n#tr#27;n#tbody#0;n#table#0;n#div#3;n#div#0;n#div#0;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#td#1;n#tr#27;n#tbody#0;n#table#0;n#div#3;n#div#0;n#div#0;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#td#2;n#tr#27;n#tbody#0;n#table#0;n#div#3;n#div#0;n#div#0;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1465763894000" expanded="true" signature="1679:1832" ph="..." />
-            <marker date="1465763894000" expanded="true" signature="1772:1800" ph="..." />
+            <marker date="1465766362000" expanded="true" signature="1679:1832" ph="..." />
+            <marker date="1465766362000" expanded="true" signature="1772:1800" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1130,7 +1138,7 @@
         <state relative-caret-position="383">
           <caret line="558" column="77" selection-start-line="558" selection-start-column="0" selection-end-line="559" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1169,10 +1177,21 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/todo_klarlakk.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="56" selection-start-line="6" selection-start-column="16" selection-end-line="7" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="1808" column="8" selection-start-line="1808" selection-start-column="5" selection-end-line="1808" selection-end-column="8" />
+        <state relative-caret-position="393">
+          <caret line="1790" column="40" selection-start-line="1790" selection-start-column="0" selection-end-line="1791" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1187,20 +1206,9 @@
             <element signature="n#style#0;n#td#0;n#tr#27;n#tbody#0;n#table#0;n#div#3;n#div#0;n#div#0;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#td#1;n#tr#27;n#tbody#0;n#table#0;n#div#3;n#div#0;n#div#0;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#td#2;n#tr#27;n#tbody#0;n#table#0;n#div#3;n#div#0;n#div#0;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1465763894000" expanded="true" signature="1679:1832" ph="..." />
-            <marker date="1465763894000" expanded="true" signature="1772:1800" ph="..." />
+            <marker date="1465766362000" expanded="true" signature="1679:1832" ph="..." />
+            <marker date="1465766362000" expanded="true" signature="1772:1800" ph="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/todo_klarlakk.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="28" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>

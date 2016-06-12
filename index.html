@@ -1748,47 +1748,50 @@ grundig vask av vinduer, dørkarmer,dørtrekk og duftbehandling.">
         </div>
         <div class="row">
             <div class="contact_full">
+                <form action="https://getsimpleform.com/messages?form_api_token=95947839a0d662cbbb9fc9cde531492a" method="POST" enctype="multipart/form-data">
                 <div class="col-md-6 left">
                     <div class="left_contact">
-                        <form action="role">
+
                             <div class="form-level">
-                                <input name="name" placeholder="Navn" id="name" value="" type="text"
+                                <input name="navn" placeholder="Navn" id="name" value="" type="text"
                                        class="input-block">
                                 <span class="form-icon fa fa-user"></span>
                             </div>
                             <div class="form-level">
-                                <input name="email" placeholder="Epost" id="mail" class="input-block" value=""
+                                <input name="epost" placeholder="Epost" id="mail" class="input-block" value=""
                                        type="email">
                                 <span class="form-icon fa fa-envelope-o"></span>
                             </div>
                             <div class="form-level">
-                                <input name="name" placeholder="Mobil" id="phone" class="input-block" value=""
+                                <input name="mobil" placeholder="Mobil" id="phone" class="input-block" value=""
                                        type="text">
                                 <span class="form-icon fa fa-phone"></span>
                             </div>
                             <div class="form-level">
-                                <input name="name" placeholder="Biltype / Reg.nr" id="licenseplate" class="input-block" value=""
+                                <input name="biltype_regnr" placeholder="Biltype / Reg.nr" id="licenseplate" class="input-block" value=""
                                        type="text">
                                 <span class="form-icon fa fa-car"></span>
                             </div>
                             <div class="form-level">
-                                <input name="name" placeholder="Send oss bilde av skaden" id="image" class="input-block" value=""
-                                       type="text">
+                                <!--<input name="bilde" placeholder="Send oss bilde av skaden" id="image" class="input-block" value="" type="text"/>-->
+                                <input name="uploadedFile" placeholder="Send oss bilde av skaden" id="image" class="input-block" value=""  type="file"/>
                                 <span class="form-icon fa fa-camera"></span>
                             </div>
-                        </form>
+
                     </div>
                 </div>
 
                 <div class="col-md-6 right">
                     <div class="form-level">
-                        <textarea name="" id="message" rows="5" class="textarea-block" placeholder="Beskjed"></textarea>
+                        <textarea name="beskjed" id="message" rows="10" class="textarea-block" placeholder="Beskjed"></textarea>
                         <span class="form-icon fa fa-pencil"></span>
                     </div>
                 </div>
                 <div class="col-md-12 text-center">
-                    <button class="btn btn-main featured">Send</button>
+                    <!--<button class="btn btn-main featured">Send</button>-->
+                    <input type="submit" value="Send" class="btn btn-main featured"/>
                 </div>
+                </form>
             </div>
         </div>
     </div>
