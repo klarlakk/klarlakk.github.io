@@ -7,450 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f8cb705-e4d5-4434-af9f-884a553721cd" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/bilpleie/lyktsliping_after1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/bilpleie/lyktsliping_before1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/bulkoppretting/bulk_after1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/bulkoppretting/bulk_before1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/bulkoppretting/bulkoppretting_combi1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/bulkoppretting/oppretting_after1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/bulkoppretting/oppretting_before1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/logo4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/logo5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/plassering.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart_repair/after1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/smart_repair/before1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/owl.carousel.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/documentation/assets/blueprint-css/ie.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/documentation/assets/blueprint-css/plugins/buttons/icons/cross.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/documentation/assets/blueprint-css/plugins/buttons/icons/key.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/documentation/assets/blueprint-css/plugins/buttons/icons/tick.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/documentation/assets/blueprint-css/plugins/buttons/readme.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/documentation/assets/blueprint-css/plugins/buttons/screen.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/documentation/assets/blueprint-css/plugins/fancy-type/readme.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/documentation/assets/blueprint-css/plugins/fancy-type/screen.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/documentation/assets/blueprint-css/plugins/link-icons/icons/doc.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/documentation/assets/blueprint-css/plugins/link-icons/icons/email.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/documentation/assets/blueprint-css/plugins/link-icons/icons/external.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/documentation/assets/blueprint-css/plugins/link-icons/icons/feed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/documentation/assets/blueprint-css/plugins/link-icons/icons/im.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/documentation/assets/blueprint-css/plugins/link-icons/icons/pdf.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/documentation/assets/blueprint-css/plugins/link-icons/icons/visited.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/documentation/assets/blueprint-css/plugins/link-icons/icons/xls.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/documentation/assets/blueprint-css/plugins/link-icons/readme.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/documentation/assets/blueprint-css/plugins/link-icons/screen.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/documentation/assets/blueprint-css/plugins/rtl/readme.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/documentation/assets/blueprint-css/plugins/rtl/screen.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/documentation/assets/blueprint-css/print.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/documentation/assets/blueprint-css/screen.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/documentation/assets/blueprint-css/src/forms.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/documentation/assets/blueprint-css/src/grid.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/documentation/assets/blueprint-css/src/grid.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/documentation/assets/blueprint-css/src/ie.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/documentation/assets/blueprint-css/src/print.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/documentation/assets/blueprint-css/src/reset.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/documentation/assets/blueprint-css/src/typography.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/documentation/assets/images/twitter-settings.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/documentation/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/documentation/new.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/documentation/syntax-highlighter/scripts/shAutoloader.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/documentation/syntax-highlighter/scripts/shBrushAS3.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/documentation/syntax-highlighter/scripts/shBrushAppleScript.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/documentation/syntax-highlighter/scripts/shBrushBash.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/documentation/syntax-highlighter/scripts/shBrushCSharp.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/documentation/syntax-highlighter/scripts/shBrushColdFusion.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/documentation/syntax-highlighter/scripts/shBrushCpp.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/documentation/syntax-highlighter/scripts/shBrushCss.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/documentation/syntax-highlighter/scripts/shBrushDelphi.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/documentation/syntax-highlighter/scripts/shBrushDiff.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/documentation/syntax-highlighter/scripts/shBrushErlang.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/documentation/syntax-highlighter/scripts/shBrushGroovy.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/documentation/syntax-highlighter/scripts/shBrushJScript.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/documentation/syntax-highlighter/scripts/shBrushJava.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/documentation/syntax-highlighter/scripts/shBrushJavaFX.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/documentation/syntax-highlighter/scripts/shBrushPerl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/documentation/syntax-highlighter/scripts/shBrushPhp.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/documentation/syntax-highlighter/scripts/shBrushPlain.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/documentation/syntax-highlighter/scripts/shBrushPowerShell.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/documentation/syntax-highlighter/scripts/shBrushPython.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/documentation/syntax-highlighter/scripts/shBrushRuby.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/documentation/syntax-highlighter/scripts/shBrushSass.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/documentation/syntax-highlighter/scripts/shBrushScala.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/documentation/syntax-highlighter/scripts/shBrushSql.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/documentation/syntax-highlighter/scripts/shBrushVb.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/documentation/syntax-highlighter/scripts/shBrushXml.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/documentation/syntax-highlighter/scripts/shCore.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/documentation/syntax-highlighter/scripts/shLegacy.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/documentation/syntax-highlighter/styles/shCore.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/documentation/syntax-highlighter/styles/shCoreDefault.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/documentation/syntax-highlighter/styles/shCoreDjango.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/documentation/syntax-highlighter/styles/shCoreEclipse.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/documentation/syntax-highlighter/styles/shCoreEmacs.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/documentation/syntax-highlighter/styles/shCoreFadeToGrey.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/documentation/syntax-highlighter/styles/shCoreMDUltra.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/documentation/syntax-highlighter/styles/shCoreMidnight.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/documentation/syntax-highlighter/styles/shCoreRDark.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/documentation/syntax-highlighter/styles/shThemeDefault.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/documentation/syntax-highlighter/styles/shThemeDjango.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/documentation/syntax-highlighter/styles/shThemeEclipse.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/documentation/syntax-highlighter/styles/shThemeEmacs.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/documentation/syntax-highlighter/styles/shThemeFadeToGrey.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/documentation/syntax-highlighter/styles/shThemeMDUltra.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/documentation/syntax-highlighter/styles/shThemeMidnight.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/documentation/syntax-highlighter/styles/shThemeRDark.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/blog-single.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/css/animate.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/css/custom.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/css/flexslider.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/css/font-awesome.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/css/font-awesome.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/css/hover-min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/css/hover.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/css/jquery.bxslider.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/css/jquery.fancybox.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/css/onepage-scroll.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/css/owl.carousel.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/css/owl.theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/css/prettyPhoto.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/css/red.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/css/responsive.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/fonts/FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/about/browse.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/about/graphics.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/about/web1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/back-top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/banner/banner.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/banner/l5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/banner/overaly.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/banner/p10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/banner/p3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/banner/p5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/banner/v-overlay.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/bg/1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/bg/5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/bg_play_pause.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/blank.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/blog/pic1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/blog/pic10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/blog/pic11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/blog/pic12.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/blog/pic2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/blog/pic3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/blog/pic4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/blog/pic5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/blog/pic6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/blog/pic7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/blog/pic8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/blog/pic9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/clients/client1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/clients/client2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/clients/client3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/clients/client4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/clients/client5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/clients/client6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/clients/client7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/clients/client8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/color01.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/controls.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/fancybox_loading.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/fancybox_loading@2x.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/fancybox_overlay.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/fancybox_sprite.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/fancybox_sprite@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/glyphicons-halflings-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/glyphicons-halflings.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/logo2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/logo3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/map1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/portfolio/p1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/portfolio/p2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/portfolio/p3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/portfolio/p4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/portfolio/p5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/portfolio/p6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/portfolio/p7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/prettyPhoto/dark_rounded/btnNext.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/prettyPhoto/dark_rounded/btnPrevious.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/prettyPhoto/dark_rounded/contentPattern.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/prettyPhoto/dark_rounded/default_thumbnail.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/prettyPhoto/dark_rounded/loader.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/prettyPhoto/dark_rounded/sprite.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/prettyPhoto/dark_square/btnNext.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/prettyPhoto/dark_square/btnPrevious.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/prettyPhoto/dark_square/contentPattern.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/prettyPhoto/dark_square/default_thumbnail.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/prettyPhoto/dark_square/loader.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/prettyPhoto/dark_square/sprite.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/prettyPhoto/default/default_thumb.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/prettyPhoto/default/loader.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/prettyPhoto/default/sprite.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/prettyPhoto/default/sprite_next.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/prettyPhoto/default/sprite_prev.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/prettyPhoto/default/sprite_x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/prettyPhoto/default/sprite_y.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/prettyPhoto/facebook/btnNext.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/prettyPhoto/facebook/btnPrevious.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/prettyPhoto/facebook/contentPatternBottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/prettyPhoto/facebook/contentPatternLeft.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/prettyPhoto/facebook/contentPatternRight.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/prettyPhoto/facebook/contentPatternTop.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/prettyPhoto/facebook/default_thumbnail.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/prettyPhoto/facebook/loader.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/prettyPhoto/facebook/sprite.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/prettyPhoto/light_rounded/btnNext.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/prettyPhoto/light_rounded/btnPrevious.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/prettyPhoto/light_rounded/default_thumbnail.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/prettyPhoto/light_rounded/loader.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/prettyPhoto/light_rounded/sprite.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/prettyPhoto/light_square/btnNext.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/prettyPhoto/light_square/btnPrevious.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/prettyPhoto/light_square/default_thumbnail.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/prettyPhoto/light_square/loader.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/prettyPhoto/light_square/sprite.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/slider/b6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/slider/s1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/slider/s2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/slider/s3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/team/pic1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/team/pic2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/team/pic3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/team/pic4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/team/pic5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/team/pic6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/images/testimonial2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/js/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/js/custom.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/js/gmaps.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/js/imagelightbox.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/js/isotope.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/js/jquery.bxslider.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/js/jquery.bxslider.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/js/jquery.counterup.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/js/jquery.easing.1.3.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/js/jquery.fancybox.pack.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/js/jquery.isotope.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/js/jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/js/jquery.prettyPhoto.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/js/jquery.scrollTo.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/js/jquery.singlePageNav.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/js/owl.carousel.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/js/smooth-scroll.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/js/vendor/jquery-1.10.2.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/js/vendor/modernizr-2.6.2.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/js/waypoints.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/js/wow.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/portfolio-single.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/videos/gdrive.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/videos/gdrive.ogg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/html/homepage/videos/gdrive.webm" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/blog-single.html" afterPath="$PROJECT_DIR$/blog-single.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/css/animate.css" afterPath="$PROJECT_DIR$/css/animate.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/css/bootstrap.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/css/custom.css" afterPath="$PROJECT_DIR$/css/custom.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/css/flexslider.css" afterPath="$PROJECT_DIR$/css/flexslider.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/css/font-awesome.css" afterPath="$PROJECT_DIR$/css/font-awesome.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/css/font-awesome.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/css/hover-min.css" afterPath="$PROJECT_DIR$/css/hover-min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/css/hover.css" afterPath="$PROJECT_DIR$/css/hover.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/css/jquery.bxslider.css" afterPath="$PROJECT_DIR$/css/jquery.bxslider.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/css/jquery.fancybox.css" afterPath="$PROJECT_DIR$/css/jquery.fancybox.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/css/onepage-scroll.css" afterPath="$PROJECT_DIR$/css/onepage-scroll.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/css/owl.carousel.css" afterPath="$PROJECT_DIR$/css/owl.carousel.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/css/owl.theme.css" afterPath="$PROJECT_DIR$/css/owl.theme.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/css/prettyPhoto.css" afterPath="$PROJECT_DIR$/css/prettyPhoto.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/css/red.css" afterPath="$PROJECT_DIR$/css/red.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/css/responsive.css" afterPath="$PROJECT_DIR$/css/responsive.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/fonts/FontAwesome.otf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/about/browse.png" afterPath="$PROJECT_DIR$/images/about/browse.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/about/graphics.png" afterPath="$PROJECT_DIR$/images/about/graphics.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/about/web1.png" afterPath="$PROJECT_DIR$/images/about/web1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/back-top.png" afterPath="$PROJECT_DIR$/images/back-top.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/banner/banner.jpg" afterPath="$PROJECT_DIR$/images/banner/banner.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/banner/l5.png" afterPath="$PROJECT_DIR$/images/banner/l5.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/banner/overaly.png" afterPath="$PROJECT_DIR$/images/banner/overaly.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/banner/p10.jpg" afterPath="$PROJECT_DIR$/images/banner/p10.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/banner/p3.jpg" afterPath="$PROJECT_DIR$/images/banner/p3.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/banner/p5.jpg" afterPath="$PROJECT_DIR$/images/banner/p5.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/banner/v-overlay.png" afterPath="$PROJECT_DIR$/images/banner/v-overlay.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/bg/1.jpg" afterPath="$PROJECT_DIR$/images/bg/1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/bg/5.jpg" afterPath="$PROJECT_DIR$/images/bg/5.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/bg/bg.jpg" afterPath="$PROJECT_DIR$/images/bg/bg.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/bg_play_pause.png" afterPath="$PROJECT_DIR$/images/bg_play_pause.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/bilpleie/bulk_1_stor.jpg" afterPath="$PROJECT_DIR$/images/bulkoppretting/bulk_1_stor.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/bilpleie/full_shine.jpg" afterPath="$PROJECT_DIR$/images/bilpleie/full_shine.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/bilpleie/glass_forsegling.jpg" afterPath="$PROJECT_DIR$/images/bilpleie/glass_forsegling.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/bilpleie/innvendig_rens.jpg" afterPath="$PROJECT_DIR$/images/bilpleie/innvendig_rens.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/bilpleie/lakkforsegling.jpg" afterPath="$PROJECT_DIR$/images/bilpleie/lakkforsegling.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/bilpleie/lakrens_og_polering.jpg" afterPath="$PROJECT_DIR$/images/bilpleie/lakrens_og_polering.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/bilpleie/lyktsliping.jpg" afterPath="$PROJECT_DIR$/images/bilpleie/lyktsliping.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/bilpleie/nybilklargjøring.jpg" afterPath="$PROJECT_DIR$/images/bilpleie/nybilklargjøring.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/bilpleie/polering.jpg" afterPath="$PROJECT_DIR$/images/bilpleie/polering.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/bilvask/bilvask.jpg" afterPath="$PROJECT_DIR$/images/bilvask/bilvask.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/bilvask/innvendig_vask_bil.jpg" afterPath="$PROJECT_DIR$/images/bilvask/innvendig_vask_bil.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/bilvask/motorvask.jpg" afterPath="$PROJECT_DIR$/images/bilvask/motorvask.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/bilvask/utvendig_vask_bil.jpg" afterPath="$PROJECT_DIR$/images/bilvask/utvendig_vask_bil.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/blank.gif" afterPath="$PROJECT_DIR$/images/blank.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/blog/pic1.jpg" afterPath="$PROJECT_DIR$/images/blog/pic1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/blog/pic10.jpg" afterPath="$PROJECT_DIR$/images/blog/pic10.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/blog/pic11.jpg" afterPath="$PROJECT_DIR$/images/blog/pic11.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/blog/pic12.jpg" afterPath="$PROJECT_DIR$/images/blog/pic12.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/blog/pic2.jpg" afterPath="$PROJECT_DIR$/images/blog/pic2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/blog/pic3.jpg" afterPath="$PROJECT_DIR$/images/blog/pic3.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/blog/pic4.jpg" afterPath="$PROJECT_DIR$/images/blog/pic4.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/blog/pic5.jpg" afterPath="$PROJECT_DIR$/images/blog/pic5.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/blog/pic6.jpg" afterPath="$PROJECT_DIR$/images/blog/pic6.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/blog/pic7.jpg" afterPath="$PROJECT_DIR$/images/blog/pic7.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/blog/pic8.jpg" afterPath="$PROJECT_DIR$/images/blog/pic8.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/blog/pic9.jpg" afterPath="$PROJECT_DIR$/images/blog/pic9.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/bulkoppretting/bulk_1.jpg" afterPath="$PROJECT_DIR$/images/bulkoppretting/bulk_1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/bulkoppretting/bulk_1_stor.jpg" afterPath="$PROJECT_DIR$/images/bilpleie/bulk_1_stor.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/bulkoppretting/bulk_2.jpg" afterPath="$PROJECT_DIR$/images/bulkoppretting/bulk_2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/bulkoppretting/bulk_2_stor.jpg" afterPath="$PROJECT_DIR$/images/bulkoppretting/bulk_2_stor.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/bulkoppretting/bulk_3.jpg" afterPath="$PROJECT_DIR$/images/bulkoppretting/bulk_3.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/bulkoppretting/bulk_3_stor.jpg" afterPath="$PROJECT_DIR$/images/bulkoppretting/bulk_3_stor.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/bulkoppretting/liten_skade.jpg" afterPath="$PROJECT_DIR$/images/bulkoppretting/liten_skade.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/bulkoppretting/liten_skade_stor.jpg" afterPath="$PROJECT_DIR$/images/bulkoppretting/liten_skade_stor.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/bulkoppretting/ripe_1.jpg" afterPath="$PROJECT_DIR$/images/bulkoppretting/ripe_1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/bulkoppretting/ripe_2.jpg" afterPath="$PROJECT_DIR$/images/bulkoppretting/ripe_2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/bulkoppretting/ripe_2_stor.jpg" afterPath="$PROJECT_DIR$/images/bulkoppretting/ripe_2_stor.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/bulkoppretting/ripe_combi_1.jpg" afterPath="$PROJECT_DIR$/images/bulkoppretting/ripe_combi_1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/bulkoppretting/stor_skade.jpg" afterPath="$PROJECT_DIR$/images/bulkoppretting/stor_skade.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/bulkoppretting/stor_skade_2.jpg" afterPath="$PROJECT_DIR$/images/bulkoppretting/stor_skade_2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/bulkoppretting/stor_skade_2_stor.jpg" afterPath="$PROJECT_DIR$/images/bulkoppretting/stor_skade_2_stor.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/bulkoppretting/stor_skade_stor.jpg" afterPath="$PROJECT_DIR$/images/bulkoppretting/stor_skade_stor.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/clients/client1.png" afterPath="$PROJECT_DIR$/images/clients/client1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/clients/client2.png" afterPath="$PROJECT_DIR$/images/clients/client2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/clients/client3.png" afterPath="$PROJECT_DIR$/images/clients/client3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/clients/client4.png" afterPath="$PROJECT_DIR$/images/clients/client4.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/clients/client5.png" afterPath="$PROJECT_DIR$/images/clients/client5.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/clients/client6.png" afterPath="$PROJECT_DIR$/images/clients/client6.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/clients/client7.png" afterPath="$PROJECT_DIR$/images/clients/client7.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/clients/client8.png" afterPath="$PROJECT_DIR$/images/clients/client8.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/color01.png" afterPath="$PROJECT_DIR$/images/color01.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/controls.png" afterPath="$PROJECT_DIR$/images/controls.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/fancybox_loading.gif" afterPath="$PROJECT_DIR$/images/fancybox_loading.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/fancybox_loading@2x.gif" afterPath="$PROJECT_DIR$/images/fancybox_loading@2x.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/fancybox_overlay.png" afterPath="$PROJECT_DIR$/images/fancybox_overlay.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/fancybox_sprite.png" afterPath="$PROJECT_DIR$/images/fancybox_sprite.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/fancybox_sprite@2x.png" afterPath="$PROJECT_DIR$/images/fancybox_sprite@2x.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/glyphicons-halflings-white.png" afterPath="$PROJECT_DIR$/images/glyphicons-halflings-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/glyphicons-halflings.png" afterPath="$PROJECT_DIR$/images/glyphicons-halflings.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/kunde1.jpg" afterPath="$PROJECT_DIR$/images/kunde1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/kunde2.jpg" afterPath="$PROJECT_DIR$/images/kunde2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/kunde3.png" afterPath="$PROJECT_DIR$/images/kunde3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/logo2.png" afterPath="$PROJECT_DIR$/images/logo2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/logo3-orig.png" afterPath="$PROJECT_DIR$/images/logo3-orig.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/logo3.png" afterPath="$PROJECT_DIR$/images/logo3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/map1.png" afterPath="$PROJECT_DIR$/images/map1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/portfolio/p1.jpg" afterPath="$PROJECT_DIR$/images/portfolio/p1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/portfolio/p2.jpg" afterPath="$PROJECT_DIR$/images/portfolio/p2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/portfolio/p3.jpg" afterPath="$PROJECT_DIR$/images/portfolio/p3.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/portfolio/p4.jpg" afterPath="$PROJECT_DIR$/images/portfolio/p4.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/portfolio/p5.jpg" afterPath="$PROJECT_DIR$/images/portfolio/p5.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/portfolio/p6.jpg" afterPath="$PROJECT_DIR$/images/portfolio/p6.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/portfolio/p7.jpg" afterPath="$PROJECT_DIR$/images/portfolio/p7.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/prettyPhoto/dark_rounded/btnNext.png" afterPath="$PROJECT_DIR$/images/prettyPhoto/light_square/btnNext.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/prettyPhoto/dark_rounded/btnPrevious.png" afterPath="$PROJECT_DIR$/images/prettyPhoto/light_square/btnPrevious.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/prettyPhoto/dark_rounded/contentPattern.png" afterPath="$PROJECT_DIR$/images/prettyPhoto/dark_rounded/contentPattern.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/prettyPhoto/dark_rounded/default_thumbnail.gif" afterPath="$PROJECT_DIR$/images/prettyPhoto/light_square/default_thumbnail.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/prettyPhoto/dark_rounded/loader.gif" afterPath="$PROJECT_DIR$/images/prettyPhoto/dark_square/loader.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/prettyPhoto/dark_rounded/sprite.png" afterPath="$PROJECT_DIR$/images/prettyPhoto/dark_rounded/sprite.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/prettyPhoto/dark_square/btnNext.png" afterPath="$PROJECT_DIR$/images/prettyPhoto/light_rounded/btnNext.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/prettyPhoto/dark_square/btnPrevious.png" afterPath="$PROJECT_DIR$/images/prettyPhoto/light_rounded/btnPrevious.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/prettyPhoto/dark_square/contentPattern.png" afterPath="$PROJECT_DIR$/images/prettyPhoto/dark_square/contentPattern.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/prettyPhoto/dark_square/default_thumbnail.gif" afterPath="$PROJECT_DIR$/images/prettyPhoto/light_rounded/default_thumbnail.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/prettyPhoto/dark_square/loader.gif" afterPath="$PROJECT_DIR$/images/prettyPhoto/dark_rounded/loader.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/prettyPhoto/dark_square/sprite.png" afterPath="$PROJECT_DIR$/images/prettyPhoto/light_square/sprite.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/prettyPhoto/default/default_thumb.png" afterPath="$PROJECT_DIR$/images/prettyPhoto/default/default_thumb.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/prettyPhoto/default/loader.gif" afterPath="$PROJECT_DIR$/images/prettyPhoto/default/loader.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/prettyPhoto/default/sprite.png" afterPath="$PROJECT_DIR$/images/prettyPhoto/default/sprite.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/prettyPhoto/default/sprite_next.png" afterPath="$PROJECT_DIR$/images/prettyPhoto/default/sprite_next.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/prettyPhoto/default/sprite_prev.png" afterPath="$PROJECT_DIR$/images/prettyPhoto/default/sprite_prev.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/prettyPhoto/default/sprite_x.png" afterPath="$PROJECT_DIR$/images/prettyPhoto/default/sprite_x.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/prettyPhoto/default/sprite_y.png" afterPath="$PROJECT_DIR$/images/prettyPhoto/default/sprite_y.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/prettyPhoto/facebook/btnNext.png" afterPath="$PROJECT_DIR$/images/prettyPhoto/facebook/btnNext.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/prettyPhoto/facebook/btnPrevious.png" afterPath="$PROJECT_DIR$/images/prettyPhoto/facebook/btnPrevious.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/prettyPhoto/facebook/contentPatternBottom.png" afterPath="$PROJECT_DIR$/images/prettyPhoto/facebook/contentPatternBottom.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/prettyPhoto/facebook/contentPatternLeft.png" afterPath="$PROJECT_DIR$/images/prettyPhoto/facebook/contentPatternLeft.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/prettyPhoto/facebook/contentPatternRight.png" afterPath="$PROJECT_DIR$/images/prettyPhoto/facebook/contentPatternRight.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/prettyPhoto/facebook/contentPatternTop.png" afterPath="$PROJECT_DIR$/images/prettyPhoto/facebook/contentPatternTop.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/prettyPhoto/facebook/default_thumbnail.gif" afterPath="$PROJECT_DIR$/images/prettyPhoto/facebook/default_thumbnail.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/prettyPhoto/facebook/loader.gif" afterPath="$PROJECT_DIR$/images/prettyPhoto/light_square/loader.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/prettyPhoto/facebook/sprite.png" afterPath="$PROJECT_DIR$/images/prettyPhoto/facebook/sprite.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/prettyPhoto/light_rounded/btnNext.png" afterPath="$PROJECT_DIR$/images/prettyPhoto/dark_square/btnNext.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/prettyPhoto/light_rounded/btnPrevious.png" afterPath="$PROJECT_DIR$/images/prettyPhoto/dark_square/btnPrevious.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/prettyPhoto/light_rounded/default_thumbnail.gif" afterPath="$PROJECT_DIR$/images/prettyPhoto/dark_square/default_thumbnail.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/prettyPhoto/light_rounded/loader.gif" afterPath="$PROJECT_DIR$/images/prettyPhoto/light_rounded/loader.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/prettyPhoto/light_rounded/sprite.png" afterPath="$PROJECT_DIR$/images/prettyPhoto/light_rounded/sprite.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/prettyPhoto/light_square/btnNext.png" afterPath="$PROJECT_DIR$/images/prettyPhoto/dark_rounded/btnNext.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/prettyPhoto/light_square/btnPrevious.png" afterPath="$PROJECT_DIR$/images/prettyPhoto/dark_rounded/btnPrevious.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/prettyPhoto/light_square/default_thumbnail.gif" afterPath="$PROJECT_DIR$/images/prettyPhoto/dark_rounded/default_thumbnail.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/prettyPhoto/light_square/loader.gif" afterPath="$PROJECT_DIR$/images/prettyPhoto/facebook/loader.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/prettyPhoto/light_square/sprite.png" afterPath="$PROJECT_DIR$/images/prettyPhoto/dark_square/sprite.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/slider/b6.jpg" afterPath="$PROJECT_DIR$/images/slider/b6.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/slider/s1.jpg" afterPath="$PROJECT_DIR$/images/slider/s1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/slider/s2.jpg" afterPath="$PROJECT_DIR$/images/slider/s2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/slider/s3.jpg" afterPath="$PROJECT_DIR$/images/slider/s3.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/team/pic1.jpg" afterPath="$PROJECT_DIR$/images/team/pic1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/team/pic2.jpg" afterPath="$PROJECT_DIR$/images/team/pic2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/team/pic3.jpg" afterPath="$PROJECT_DIR$/images/team/pic3.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/team/pic4.jpg" afterPath="$PROJECT_DIR$/images/team/pic4.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/team/pic5.jpg" afterPath="$PROJECT_DIR$/images/team/pic5.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/team/pic6.jpg" afterPath="$PROJECT_DIR$/images/team/pic6.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/images/testimonial2.png" afterPath="$PROJECT_DIR$/images/testimonial2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/js/bootstrap.js" afterPath="$PROJECT_DIR$/js/bootstrap.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/js/bootstrap.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/js/custom.js" afterPath="$PROJECT_DIR$/js/custom.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/js/gmaps.js" afterPath="$PROJECT_DIR$/js/gmaps.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/js/isotope.js" afterPath="$PROJECT_DIR$/js/isotope.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/js/jquery.bxslider.js" afterPath="$PROJECT_DIR$/js/jquery.bxslider.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/js/jquery.bxslider.min.js" afterPath="$PROJECT_DIR$/js/jquery.bxslider.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/js/jquery.counterup.min.js" afterPath="$PROJECT_DIR$/js/jquery.counterup.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/js/jquery.easing.1.3.js" afterPath="$PROJECT_DIR$/js/jquery.easing.1.3.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/js/jquery.fancybox.pack.js" afterPath="$PROJECT_DIR$/js/jquery.fancybox.pack.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/js/jquery.isotope.js" afterPath="$PROJECT_DIR$/js/jquery.isotope.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/js/jquery.js" afterPath="$PROJECT_DIR$/js/jquery.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/js/jquery.prettyPhoto.js" afterPath="$PROJECT_DIR$/js/jquery.prettyPhoto.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/js/jquery.scrollTo.js" afterPath="$PROJECT_DIR$/js/jquery.scrollTo.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/js/jquery.singlePageNav.js" afterPath="$PROJECT_DIR$/js/jquery.singlePageNav.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/js/owl.carousel.min.js" afterPath="$PROJECT_DIR$/js/owl.carousel.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/js/smooth-scroll.js" afterPath="$PROJECT_DIR$/js/smooth-scroll.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/js/vendor/jquery-1.10.2.min.js" afterPath="$PROJECT_DIR$/js/vendor/jquery-1.10.2.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/js/vendor/modernizr-2.6.2.min.js" afterPath="$PROJECT_DIR$/js/vendor/modernizr-2.6.2.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/js/waypoints.min.js" afterPath="$PROJECT_DIR$/js/waypoints.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/js/wow.min.js" afterPath="$PROJECT_DIR$/js/wow.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/portfolio-single.html" afterPath="$PROJECT_DIR$/portfolio-single.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/todo_klarlakk.md" afterPath="$PROJECT_DIR$/todo_klarlakk.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/videos/gdrive.mp4" afterPath="$PROJECT_DIR$/videos/gdrive.mp4" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/videos/gdrive.ogg" afterPath="$PROJECT_DIR$/videos/gdrive.ogg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/videos/gdrive.webm" afterPath="$PROJECT_DIR$/videos/gdrive.webm" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/videos/klarlakk_intro.mp4" afterPath="$PROJECT_DIR$/videos/klarlakk_intro.mp4" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/videos/klarlakk_intro.ogv" afterPath="$PROJECT_DIR$/videos/klarlakk_intro.ogv" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/videos/klarlakk_intro.webm" afterPath="$PROJECT_DIR$/videos/klarlakk_intro.webm" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/videos/klarlakk_intro_2.mp4" afterPath="$PROJECT_DIR$/videos/klarlakk_intro_2.mp4" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/theme/html/videopage/videos/klarlakk_intro_orig.mp4" afterPath="$PROJECT_DIR$/videos/klarlakk_intro_orig.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plassering.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="klarlakk.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -472,11 +31,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="22" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state relative-caret-position="315">
+              <caret line="1151" column="57" selection-start-line="1151" selection-start-column="0" selection-end-line="1151" selection-end-column="0" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -491,10 +50,24 @@
                 <element signature="n#style#0;n#td#0;n#tr#27;n#tbody#0;n#table#0;n#div#3;n#div#0;n#div#0;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#td#1;n#tr#27;n#tbody#0;n#table#0;n#div#3;n#div#0;n#div#0;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#td#2;n#tr#27;n#tbody#0;n#table#0;n#div#3;n#div#0;n#div#0;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <marker date="1465686746000" expanded="true" signature="1679:1832" ph="..." />
-                <marker date="1465686746000" expanded="true" signature="1772:1800" ph="..." />
+                <marker date="1465763696000" expanded="true" signature="1679:1832" ph="..." />
+                <marker date="1465763696000" expanded="true" signature="1772:1800" ph="..." />
               </folding>
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="prisliste.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/prisliste.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="plassering.jpg" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/plassering.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -555,6 +128,7 @@
         <option value="$PROJECT_DIR$/theme/html/videopage/css/custom.css" />
         <option value="$PROJECT_DIR$/theme/html/videopage/index.html" />
         <option value="$PROJECT_DIR$/theme/html/videopage/js/custom.js" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -1076,7 +650,7 @@
       <workItem from="1463944187555" duration="1432000" />
       <workItem from="1463946176524" duration="10839000" />
       <workItem from="1465418004897" duration="1514000" />
-      <workItem from="1465669752902" duration="14890000" />
+      <workItem from="1465669752902" duration="15473000" />
     </task>
     <task id="LOCAL-00001" summary="Working version&#10;">
       <created>1456082024321</created>
@@ -1190,11 +764,18 @@
       <option name="project" value="LOCAL" />
       <updated>1465687127018</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Reorganized folders.">
+      <created>1465763141809</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1465763141809</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="74684000" />
+    <option name="totallyTimeSpent" value="75267000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="145" y="23" width="1903" height="1215" extended-state="0" />
@@ -1206,12 +787,12 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32839224" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32767856" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900834" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3315393" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25040302" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25040302" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28074867" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1266,7 +847,8 @@
     <MESSAGE value="Fikset prisliste + bilvask." />
     <MESSAGE value="Fikset diverse småting." />
     <MESSAGE value="Working." />
-    <option name="LAST_COMMIT_MESSAGE" value="Working." />
+    <MESSAGE value="Reorganized folders." />
+    <option name="LAST_COMMIT_MESSAGE" value="Reorganized folders." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1277,12 +859,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/Downloads/cyprass-html5-responsive-business-template/html/videopage/index.html" />
-    <entry file="file://$PROJECT_DIR$/images/logo2.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/logo3.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -1306,8 +882,8 @@
             <element signature="n#style#0;n#td#0;n#tr#27;n#tbody#0;n#table#0;n#div#3;n#div#0;n#div#0;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#td#1;n#tr#27;n#tbody#0;n#table#0;n#div#3;n#div#0;n#div#0;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#td#2;n#tr#27;n#tbody#0;n#table#0;n#div#3;n#div#0;n#div#0;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1465686746000" expanded="true" signature="1679:1832" ph="..." />
-            <marker date="1465686746000" expanded="true" signature="1772:1800" ph="..." />
+            <marker date="1465763696000" expanded="true" signature="1679:1832" ph="..." />
+            <marker date="1465763696000" expanded="true" signature="1772:1800" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1357,8 +933,8 @@
             <element signature="n#style#0;n#td#0;n#tr#27;n#tbody#0;n#table#0;n#div#3;n#div#0;n#div#0;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#td#1;n#tr#27;n#tbody#0;n#table#0;n#div#3;n#div#0;n#div#0;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#td#2;n#tr#27;n#tbody#0;n#table#0;n#div#3;n#div#0;n#div#0;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1465686746000" expanded="true" signature="1679:1832" ph="..." />
-            <marker date="1465686746000" expanded="true" signature="1772:1800" ph="..." />
+            <marker date="1465763696000" expanded="true" signature="1679:1832" ph="..." />
+            <marker date="1465763696000" expanded="true" signature="1772:1800" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1609,8 +1185,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="22" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        <state relative-caret-position="315">
+          <caret line="1151" column="57" selection-start-line="1151" selection-start-column="0" selection-end-line="1151" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1625,10 +1201,20 @@
             <element signature="n#style#0;n#td#0;n#tr#27;n#tbody#0;n#table#0;n#div#3;n#div#0;n#div#0;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#td#1;n#tr#27;n#tbody#0;n#table#0;n#div#3;n#div#0;n#div#0;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#td#2;n#tr#27;n#tbody#0;n#table#0;n#div#3;n#div#0;n#div#0;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1465686746000" expanded="true" signature="1679:1832" ph="..." />
-            <marker date="1465686746000" expanded="true" signature="1772:1800" ph="..." />
+            <marker date="1465763696000" expanded="true" signature="1679:1832" ph="..." />
+            <marker date="1465763696000" expanded="true" signature="1772:1800" ph="..." />
           </folding>
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prisliste.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plassering.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
   </component>
