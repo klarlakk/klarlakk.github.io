@@ -34,8 +34,13 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< b533941eb787ab2252735ec1aa6f9cc8afaa19c4
             <state relative-caret-position="268">
               <caret line="1630" column="81" selection-start-line="1630" selection-start-column="74" selection-end-line="1630" selection-end-column="74" />
+=======
+            <state relative-caret-position="205">
+              <caret line="865" column="25" selection-start-line="865" selection-start-column="25" selection-end-line="865" selection-end-column="25" />
+>>>>>>> noen bilder av biler
               <folding>
                 <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -81,8 +86,13 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< b533941eb787ab2252735ec1aa6f9cc8afaa19c4
             <state relative-caret-position="114">
               <caret line="6" column="56" selection-start-line="6" selection-start-column="16" selection-end-line="7" selection-end-column="34" />
+=======
+            <state relative-caret-position="5166">
+              <caret line="310" column="20" selection-start-line="310" selection-start-column="20" selection-end-line="310" selection-end-column="20" />
+>>>>>>> noen bilder av biler
               <folding />
             </state>
           </provider>
@@ -91,8 +101,13 @@
       <file leaf-file-name="custom.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/custom.css">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< b533941eb787ab2252735ec1aa6f9cc8afaa19c4
             <state relative-caret-position="287">
               <caret line="1246" column="37" selection-start-line="1246" selection-start-column="37" selection-end-line="1246" selection-end-column="37" />
+=======
+            <state relative-caret-position="47214">
+              <caret line="2623" column="13" selection-start-line="2623" selection-start-column="13" selection-end-line="2623" selection-end-column="13" />
+>>>>>>> noen bilder av biler
               <folding />
             </state>
           </provider>
@@ -148,10 +163,17 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
+<<<<<<< b533941eb787ab2252735ec1aa6f9cc8afaa19c4
     <option name="x" value="145" />
     <option name="y" value="23" />
     <option name="width" value="1903" />
     <option name="height" value="1215" />
+=======
+    <option name="x" value="160" />
+    <option name="y" value="38" />
+    <option name="width" value="1389" />
+    <option name="height" value="981" />
+>>>>>>> noen bilder av biler
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -179,7 +201,10 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+<<<<<<< b533941eb787ab2252735ec1aa6f9cc8afaa19c4
       <pane id="PackagesPane" />
+=======
+>>>>>>> noen bilder av biler
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -201,6 +226,10 @@
           </PATH>
         </subPane>
       </pane>
+<<<<<<< b533941eb787ab2252735ec1aa6f9cc8afaa19c4
+=======
+      <pane id="PackagesPane" />
+>>>>>>> noen bilder av biler
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -211,7 +240,7 @@
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/playground/klarlakk.github.io" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="/opt/nodejs/latest/bin/node" />
     <property name="ignore_missing_gitignore" value="true" />
@@ -648,11 +677,16 @@
       <workItem from="1456005936024" duration="20214000" />
       <workItem from="1456434430213" duration="2722000" />
       <workItem from="1456507527127" duration="220000" />
+<<<<<<< b533941eb787ab2252735ec1aa6f9cc8afaa19c4
       <workItem from="1463777550345" duration="17528000" />
       <workItem from="1463944187555" duration="1432000" />
       <workItem from="1463946176524" duration="10839000" />
       <workItem from="1465418004897" duration="1514000" />
       <workItem from="1465669752902" duration="21941000" />
+=======
+      <workItem from="1463777550345" duration="18161000" />
+      <workItem from="1466014648904" duration="18000" />
+>>>>>>> noen bilder av biler
     </task>
     <task id="LOCAL-00001" summary="Working version&#10;">
       <created>1456082024321</created>
@@ -805,10 +839,17 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< b533941eb787ab2252735ec1aa6f9cc8afaa19c4
     <option name="totallyTimeSpent" value="81735000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="145" y="23" width="1903" height="1215" extended-state="0" />
+=======
+    <option name="totallyTimeSpent" value="46660000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="160" y="38" width="1389" height="981" extended-state="0" />
+>>>>>>> noen bilder av biler
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -822,9 +863,14 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3315393" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+<<<<<<< b533941eb787ab2252735ec1aa6f9cc8afaa19c4
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25040302" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28035715" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+=======
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16902457" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+>>>>>>> noen bilder av biler
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -847,6 +893,7 @@
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="JProfiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28125" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -893,7 +940,44 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< b533941eb787ab2252735ec1aa6f9cc8afaa19c4
     <entry file="file://$PROJECT_DIR$/index.html">
+=======
+    <entry file="file://$PROJECT_DIR$/theme/html/homepage/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="1397" column="11" selection-start-line="1397" selection-start-column="11" selection-end-line="1397" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/theme/html/videopage/images/portfolio/p1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/theme/html/videopage/images/bulkoppretting/ripe_1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/theme/html/homepage/images/blog/pic6.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/cyprass-html5-responsive-business-template/html/videopage/index.html" />
+    <entry file="file://$PROJECT_DIR$/theme/html/videopage/images/logo2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/theme/html/videopage/images/logo3.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/theme/html/videopage/index.html">
+>>>>>>> noen bilder av biler
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1152,6 +1236,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+<<<<<<< b533941eb787ab2252735ec1aa6f9cc8afaa19c4
         </state>
       </provider>
     </entry>
@@ -1202,6 +1287,8 @@
           <folding>
             <element signature="n#!!doc" expanded="false" />
           </folding>
+=======
+>>>>>>> noen bilder av biler
         </state>
       </provider>
     </entry>
@@ -1236,24 +1323,39 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< b533941eb787ab2252735ec1aa6f9cc8afaa19c4
         <state relative-caret-position="114">
           <caret line="6" column="56" selection-start-line="6" selection-start-column="16" selection-end-line="7" selection-end-column="34" />
+=======
+        <state relative-caret-position="5166">
+          <caret line="310" column="20" selection-start-line="310" selection-start-column="20" selection-end-line="310" selection-end-column="20" />
+>>>>>>> noen bilder av biler
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/custom.css">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< b533941eb787ab2252735ec1aa6f9cc8afaa19c4
         <state relative-caret-position="287">
           <caret line="1246" column="37" selection-start-line="1246" selection-start-column="37" selection-end-line="1246" selection-end-column="37" />
+=======
+        <state relative-caret-position="47214">
+          <caret line="2623" column="13" selection-start-line="2623" selection-start-column="13" selection-end-line="2623" selection-end-column="13" />
+>>>>>>> noen bilder av biler
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< b533941eb787ab2252735ec1aa6f9cc8afaa19c4
         <state relative-caret-position="268">
           <caret line="1630" column="81" selection-start-line="1630" selection-start-column="74" selection-end-line="1630" selection-end-column="74" />
+=======
+        <state relative-caret-position="205">
+          <caret line="865" column="25" selection-start-line="865" selection-start-column="25" selection-end-line="865" selection-end-column="25" />
+>>>>>>> noen bilder av biler
           <folding>
             <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
